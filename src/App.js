@@ -1,4 +1,3 @@
-import {Button} from '@mui/material';
 import './App.css';
 import News from './component/News/News';
 import { useEffect, useState } from 'react';
